@@ -21,8 +21,8 @@ GET /api/v1/address/unused/count
 
 请求参数：
 
-参数 | 类型 | 必须 | 说明
+参数|类型|必须|说明
 
-chain | string | 是 | 链，使用主网代币
+chain|string|是|链，使用主网代币
 
 
