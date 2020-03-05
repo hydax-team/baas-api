@@ -150,7 +150,7 @@ POST /api/v1/notify/withdrawal
 ```
 ----
 
-## 6 提现处理完成通知
+## 6 对账
 HTTP Request：
 ```
 POST /api/v1/asset/verify
