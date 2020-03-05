@@ -14,14 +14,15 @@ GET　POST
 访问 API 时的 UNIX EPOCH 时间戳 (精确到毫秒), 过期时间120000ms。
 
 # 接口列表
-## 获取剩余地址数量
+## 1 获取剩余地址数量
 HTTP Request：
 
 GET /api/v1/address/unused/count
 
 请求参数：
 
-参数|类型|必须|说明
-chain|string|是|链，使用主网代币
+|参数|类型|必须|说明|
+
+|chain|string|是|链，使用主网代币|
 
 
